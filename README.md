@@ -9,7 +9,7 @@
 
 <br>
 
-### 🔧 Tools :
+### 🛠 Tools :
 <a href="https://code.visualstudio.com/" target="_blank"> 
 	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/VSCode.png" align="left" alt="VS Code" width="26px"/>
 </a>
