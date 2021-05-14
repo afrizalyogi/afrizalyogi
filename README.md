@@ -1,3 +1,5 @@
+<!-- Afrizal Yogi - README Profiles -->
+
 ## Hi, I am <a href="https://bit.ly/OGDev" target="_blank">Afrizal Yogi P.</a> 👋
 
 <br>
@@ -11,33 +13,32 @@
 
 ### 🔧 Tools :
 <a href="https://code.visualstudio.com/" target="_blank"> 
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/VSCode.png" align="left" alt="VS Code" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/VSCode.png" align="left" alt="VS Code" width="26px"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Git.png" align="left" alt="Git" width="26px"/> 
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Git.png" align="left" alt="Git" width="26px"/> 
 </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Github.png" align="left" alt="Github" width="26px"/>
+<a href="https://www.figma.com/" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Figma.png" align="left" alt="Figma" width="26px"/>
 </a>
 <a href="https://www.gimp.org/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/GIMP.png" align="left" alt="GIMP" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/GIMP.png" align="left" alt="GIMP" width="26px"/>
 </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Github.png" align="left" alt="Github" width="26px"/>
+<a href="https://affinity.serif.com/en-us/designer/" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AffinityDesigner.png" align="left" alt="Affinity Designer" width="26px"/>
 </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Github.png" align="left" alt="Github" width="26px"/>
+<a href="https://affinity.serif.com/en-us/photo/" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AffinityPhoto.png" align="left" alt="Affinity Photo" width="26px"/>
 </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Github.png" align="left" alt="Github" width="26px"/>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AdobeIllustrator.png" align="left" alt="Adobe Illustrator" width="26px"/>
 </a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Github.png" align="left" alt="Github" width="26px"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Github.png" align="left" alt="Github" width="26px"/>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AdobePhotoshop.png" align="left" alt="Adobe Photoshop" width="26px"/>
 </a>
 
+<br>
+<br>
 <br>
 
 ### 📫 How to reach me: 
@@ -51,6 +52,11 @@ Email : [afrizalyogi@outlook.com](mailto:afrizalyogi@outlook.com)
 - [The car of the future? Qualcomm unveils 4th-gen Snapdragon auto platform](https://www.digitaltrends.com/cars/qualcomm-4th-gen-snapdragon-automotive-cockpit/)
 
 <br>
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
+<br>
 
 ---
 
@@ -61,18 +67,3 @@ Email : [afrizalyogi@outlook.com](mailto:afrizalyogi@outlook.com)
 </p>
 
 ![](https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/bottom_by%40Trilokia.svg?raw=true)
-
-<!--
-**afrizalyogi/afrizalyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
