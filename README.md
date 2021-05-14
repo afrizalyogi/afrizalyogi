@@ -2,8 +2,6 @@
 
 ## Hi, I am <a href="https://bit.ly/OGDev" target="_blank">Afrizal Yogi P.</a> 👋
 
-<br>
-
 ### 📖 About me :
 - I am currently learn & practicing about UI/UX Design and Front-end Development.
 - I studied Computer & Network Engineering at Vocational High School.
