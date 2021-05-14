@@ -1,6 +1,6 @@
 <!-- Afrizal Yogi - README Profiles -->
 
-## Hi, I am <a href="https://bit.ly/OGDev" target="_blank">Afrizal Yogi P.</a> 👋
+## Hi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a> 👋
 
 ### 📖 About me :
 - I am currently learn & practicing about UI/UX Design and Front-end Development.
@@ -64,4 +64,4 @@ Email : [afrizalyogi@outlook.com](mailto:afrizalyogi@outlook.com)
   <i>"Start Where You Are, Use What You Have & Do What You Can"</i>
 </p>
 
-![](https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/bottom_by%40Trilokia.svg?raw=true)
+![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/bottom_by%40Trilokia.svg?raw=true)
