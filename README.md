@@ -11,28 +11,28 @@
 
 ### 🛠 Tools :
 <a href="https://code.visualstudio.com/" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/VSCode.png" align="left" alt="VS Code" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/VSCode.png" align="left" alt="VS Code"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Git.png" align="left" alt="Git" width="26px"/> 
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Git.png" align="left" alt="Git"/> 
 </a>
 <a href="https://www.figma.com/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/Figma.png" align="left" alt="Figma" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Figma.png" align="left" alt="Figma"/>
 </a>
 <a href="https://www.gimp.org/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/GIMP.png" align="left" alt="GIMP" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/GIMP.png" align="left" alt="GIMP"/>
 </a>
 <a href="https://affinity.serif.com/en-us/designer/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AffinityDesigner.png" align="left" alt="Affinity Designer" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AffinityDesigner.png" align="left" alt="Affinity Designer"/>
 </a>
 <a href="https://affinity.serif.com/en-us/photo/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AffinityPhoto.png" align="left" alt="Affinity Photo" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AffinityPhoto.png" align="left" alt="Affinity Photo"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AdobeIllustrator.png" align="left" alt="Adobe Illustrator" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AdobeIllustrator.png" align="left" alt="Adobe Illustrator"/>
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/AdobePhotoshop.png" align="left" alt="Adobe Photoshop" width="26px"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AdobePhotoshop.png" align="left" alt="Adobe Photoshop"/>
 </a>
 
 <br>
@@ -64,4 +64,4 @@ Email : [afrizalyogi@outlook.com](mailto:afrizalyogi@outlook.com)
   <i>"Start Where You Are, Use What You Have & Do What You Can"</i>
 </p>
 
-![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi/blob/main/Assets/README/bottom_by%40Trilokia.svg?raw=true)
+![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
