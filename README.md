@@ -2,6 +2,19 @@
 
 ## Hi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a> 👋
 
+<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/LinkedIn.png" align="left" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/afrizalyogi.id/" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Instagram.png" align="left" alt="Instagram"/>
+</a>
+<a href="https://dribbble.com/afrizalyogi" target="_blank"> 
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Dribbble.png" align="left" alt="Dribbble"/>
+</a>
+
+<br>
+<br>
+
 ### 📖 About me :
 - I am currently learn & practicing about UI/UX Design and Front-end Development.
 - I studied Computer & Network Engineering at Vocational High School.
