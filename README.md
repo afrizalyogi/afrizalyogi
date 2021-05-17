@@ -11,6 +11,9 @@
 <a href="https://dribbble.com/afrizalyogi" target="_blank"> 
 	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Dribbble.png" align="left" alt="Dribbble"/>
 </a>
+<a href="https://github.com/afrizalyogi" target="_blank"> 
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" align="left" alt="Dribbble"/>
+</a>
 
 <br>
 <br>
