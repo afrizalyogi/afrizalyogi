@@ -25,7 +25,7 @@
 
 <br>
 
-### 🛠 Tools :
+### ⚙ Tools :
 <a href="https://code.visualstudio.com/" target="_blank"> 
 	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/VSCode.png" align="left" alt="VS Code"/>
 </a>
@@ -55,11 +55,6 @@
 <br>
 <br>
 
-### 📫 How to reach me: 
-Email : [afrizalyogi@outlook.com](mailto:afrizalyogi@outlook.com)
-
-<br>
-
 ### ⚡ Latest cool things :
 - [What is ambient computing?](https://www.digitaltrends.com/computing/what-is-ambient-computing/)
 - [Google is planning to test drones for fighting fires](https://www.digitaltrends.com/news/google-is-planning-to-test-drones-for-fighting-fires/)
@@ -78,6 +73,14 @@ Email : [afrizalyogi@outlook.com](mailto:afrizalyogi@outlook.com)
 
 <p align="center">
   <i>"Start Where You Are, Use What You Have & Do What You Can"</i>
+</p>
+
+<br>
+	
+<p  align="center">
+	<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/Saweria_QR.jpg" alt="Support Me" width="150px"/>
+	</a>
 </p>
 
 ![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
