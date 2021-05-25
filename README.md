@@ -84,8 +84,8 @@
 <br>
 	
 <p  align="center">
-	<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/Saweria_QR.jpg" alt="Support Me" width="150px"/>
+	<a href="https://saweria.co/afrizalyogi" target="_blank">
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/AY_SaweriaQR.png" alt="Support Me" width="400px"/>
 	</a>
 </p>
 
