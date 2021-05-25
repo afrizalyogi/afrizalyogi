@@ -1,6 +1,6 @@
 <!-- Afrizal Yogi - README Profiles -->
 
-## Hi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a> 👋
+## Hello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a> 👋
 
 <a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
 	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/LinkedIn.png" align="left" alt="LinkedIn"/>
@@ -12,7 +12,7 @@
 	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Dribbble.png" align="left" alt="Dribbble"/>
 </a>
 <a href="https://github.com/afrizalyogi" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" align="left" alt="Dribbble"/>
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" align="left" alt="Github"/>
 </a>
 
 <br>
@@ -53,6 +53,12 @@
 
 <br>
 <br>
+<br>
+
+### 📫 How to reach me :
+- Email : <a href="mailto:afrizalyogi@outlook.com" target="_blank">afrizalyogi@outlook.com</a>
+- Discord : <a href="https://discord.gg/jxKUjGBmrD" target="_blank">discord.gg/jxKUjGBmrD</a>
+
 <br>
 
 ### ⚡ Latest cool things :
