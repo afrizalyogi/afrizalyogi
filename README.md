@@ -3,6 +3,15 @@
 <h2 align="center">Hello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
 &nbsp <img src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" width="40px"/></h2>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
 <br>
 
 ### 📖 About me :
@@ -82,6 +91,9 @@
 </p>
 
 <p align="center">
+	<a href="https://discord.gg/jxKUjGBmrD" target="_blank"> 
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Discord.png" alt="Discord"/>
+	</a>
 	&nbsp &nbsp &nbsp
 	<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
 		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/LinkedIn.png" alt="LinkedIn"/>
