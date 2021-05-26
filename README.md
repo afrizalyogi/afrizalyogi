@@ -15,9 +15,9 @@
 <br>
 
 ### 📖 About me :
-- I am currently learn & practicing about UI/UX Design and Front-end Development.
-- I studied Computer & Network Engineering at Vocational High School.
-- I had an internship at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
+- I am currently learn and practicing about UI/UX Design and Front-end Development.
+- I studied Computer and Network Engineering at Vocational High School.
+- I had an internship at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a> as a Technician.
 
 <br>
 
@@ -52,7 +52,7 @@
 <br>
 
 ### ⚡ Latest cool things :
-- [What is ambient computing?](https://www.digitaltrends.com/computing/what-is-ambient-computing/)
+- [Teknologi Touch-less Transaction Single Lane Free Flow](https://teknologi.id/technology/ini-solusi-untuk-kurangi-kecelakaan-di-pintu-tol)
 - [Google is planning to test drones for fighting fires](https://www.digitaltrends.com/news/google-is-planning-to-test-drones-for-fighting-fires/)
 - [The car of the future? Qualcomm unveils 4th-gen Snapdragon auto platform](https://www.digitaltrends.com/cars/qualcomm-4th-gen-snapdragon-automotive-cockpit/)
 
@@ -87,7 +87,7 @@
 <br>
 
 <p align="center">
-  <i>"Start Where You Are, Use What You Have & Do What You Can"</i>
+  <i>"Start Where You Are, Use What You Have and Do What You Can"</i>
 </p>
 
 <p align="center">
