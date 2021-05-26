@@ -15,7 +15,7 @@
 <br>
 
 ### 📖 About me :
-- I am currently learn and practicing about UI/UX Design and Front-end Development.
+- I am currently learn about UI/UX Design and Front-end Development.
 - I studied Computer and Network Engineering at Vocational High School.
 - I had an internship at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a> as a Technician.
 
@@ -79,15 +79,9 @@
 </p>
 
 <p align="center">
-	<a href"mailto:afrizalyogi@outlook.com" target="_blank">
+	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
 		<img src="https://img.shields.io/badge/afrizalyogi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi@outlook.com"/>
 	</a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>"Start Where You Are, Use What You Have and Do What You Can"</i>
 </p>
 
 <p align="center">
@@ -110,6 +104,12 @@
 	<a href="https://github.com/afrizalyogi" target="_blank"> 
 		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" alt="Github"/>
 	</a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Start Where You Are, Use What You Have and Do What You Can"</i>
 </p>
 
 ![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
