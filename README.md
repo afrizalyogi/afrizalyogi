@@ -1,7 +1,7 @@
 <!-- Afrizal Yogi - README Profiles -->
 
 <h2 align="center">Hello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
-&nbsp <img src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" width="40px"/></h2>
+&nbsp <img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/wavehand.gif" width="40px"/></h2>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
