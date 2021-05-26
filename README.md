@@ -1,9 +1,14 @@
 <!-- Afrizal Yogi - README Profiles -->
 
-<h2 align="center">Hello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
+<a href="https://saweria.co/afrizalyogi" target="_blank">
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/SaweriaQR_AY.png" align="left" alt="Support Me" width="150px"/>
+</a>
+
+<h2>&nbsp &nbsp &nbspHello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
 &nbsp <img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/wavehand.gif" width="40px"/></h2>
 
-<p align="center">
+<p>
+	&nbsp &nbsp &nbsp
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -12,6 +17,7 @@
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
+<br>
 <br>
 
 ### 📖 About me :
@@ -72,11 +78,11 @@
 <br>
 
 
-<p  align="center">
-	<a href="https://saweria.co/afrizalyogi" target="_blank">
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/SaweriaQR_AY.png" alt="Support Me" width="150px"/>
-	</a>
+<p align="center">
+  <i>"Start Where You Are, Use What You Have and Do What You Can"</i>
 </p>
+
+<br>
 
 <p align="center">
 	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
@@ -104,12 +110,6 @@
 	<a href="https://github.com/afrizalyogi" target="_blank"> 
 		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" alt="Github"/>
 	</a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>"Start Where You Are, Use What You Have and Do What You Can"</i>
 </p>
 
 ![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
