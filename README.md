@@ -1,21 +1,8 @@
 <!-- Afrizal Yogi - README Profiles -->
 
-## Hello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a> 👋
+<h2 align="center">Hello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
+&nbsp <img src="https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif" width="40px"/></h2>
 
-<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/LinkedIn.png" align="left" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/afrizalyogi.id/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Instagram.png" align="left" alt="Instagram"/>
-</a>
-<a href="https://dribbble.com/afrizalyogi" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Dribbble.png" align="left" alt="Dribbble"/>
-</a>
-<a href="https://github.com/afrizalyogi" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" align="left" alt="Github"/>
-</a>
-
-<br>
 <br>
 
 ### 📖 About me :
@@ -55,12 +42,6 @@
 <br>
 <br>
 
-### 📫 How to reach me :
-- Email : <a href="mailto:afrizalyogi@outlook.com" target="_blank">afrizalyogi@outlook.com</a>
-- Discord : <a href="https://discord.gg/jxKUjGBmrD" target="_blank">discord.gg/jxKUjGBmrD</a>
-
-<br>
-
 ### ⚡ Latest cool things :
 - [What is ambient computing?](https://www.digitaltrends.com/computing/what-is-ambient-computing/)
 - [Google is planning to test drones for fighting fires](https://www.digitaltrends.com/news/google-is-planning-to-test-drones-for-fighting-fires/)
@@ -69,7 +50,11 @@
 <br>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+<p  align="center">
+	<a href="https://git.io/streak-stats" target="_blank">
+		<img src="http://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&theme=algolia&hide_border=true" alt="Github Streak"/>
+	</a>
+</p>
 
 <br>
 
@@ -77,15 +62,41 @@
 
 <br>
 
+
+<p  align="center">
+	<a href="https://saweria.co/afrizalyogi" target="_blank">
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/SaweriaQR_AY.png" alt="Support Me" width="150px"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href"mailto:afrizalyogi@outlook.com" target="_blank">
+		<img src="https://img.shields.io/badge/afrizalyogi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi@outlook.com"/>
+	</a>
+</p>
+
+<br>
+
 <p align="center">
   <i>"Start Where You Are, Use What You Have & Do What You Can"</i>
 </p>
 
-<br>
-	
-<p  align="center">
-	<a href="https://saweria.co/afrizalyogi" target="_blank">
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/AY_SaweriaQR.png" alt="Support Me" width="400px"/>
+<p align="center">
+	&nbsp &nbsp &nbsp
+	<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/LinkedIn.png" alt="LinkedIn"/>
+	</a>
+	&nbsp &nbsp &nbsp
+	<a href="https://www.instagram.com/afrizalyogi.id/" target="_blank">
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Instagram.png" alt="Instagram"/>
+	</a>
+	&nbsp &nbsp &nbsp
+	<a href="https://dribbble.com/afrizalyogi" target="_blank"> 
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Dribbble.png" alt="Dribbble"/>
+	</a>
+	&nbsp &nbsp &nbsp
+	<a href="https://github.com/afrizalyogi" target="_blank"> 
+		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" alt="Github"/>
 	</a>
 </p>
 
