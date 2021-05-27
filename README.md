@@ -23,7 +23,7 @@
 ### 📖 About me :
 - I am currently learn about UI/UX Design and Front-end Development.
 - I studied Computer and Network Engineering at Vocational High School.
-- I had an internship at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a> as a Technician.
+- I had an internship at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a> as a Computer Technician.
 
 <br>
 
