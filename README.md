@@ -1,13 +1,13 @@
 <!-- Afrizal Yogi - README Profiles -->
 
 <a href="https://saweria.co/afrizalyogi" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/SaweriaQR_AY.png" align="left" alt="Support Me" width="150px"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Images/SaweriaQR_AY.png" align="left" alt="Support Me" width="150px"/>
 </a>
 
 <p>
 	<h2>&nbsp &nbsp &nbspHello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
 	&nbsp 
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/wavehand.gif" width="40px"/></h2>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/></h2>
 </p>
 
 <p>
@@ -36,28 +36,28 @@
 
 ### ⚙ Tools :
 <a href="https://code.visualstudio.com/" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/VSCode.png" align="left" alt="VS Code"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/VSCode.png" align="left" alt="VS Code"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Git.png" align="left" alt="Git"/> 
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Git.png" align="left" alt="Git"/> 
 </a>
 <a href="https://www.figma.com/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Figma.png" align="left" alt="Figma"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Figma.png" align="left" alt="Figma"/>
 </a>
 <a href="https://www.gimp.org/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/GIMP.png" align="left" alt="GIMP"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/GIMP.png" align="left" alt="GIMP"/>
 </a>
 <a href="https://affinity.serif.com/en-us/designer/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AffinityDesigner.png" align="left" alt="Affinity Designer"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AffinityDesigner.png" align="left" alt="Affinity Designer"/>
 </a>
 <a href="https://affinity.serif.com/en-us/photo/" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AffinityPhoto.png" align="left" alt="Affinity Photo"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AffinityPhoto.png" align="left" alt="Affinity Photo"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AdobeIllustrator.png" align="left" alt="Adobe Illustrator"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AdobeIllustrator.png" align="left" alt="Adobe Illustrator"/>
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/AdobePhotoshop.png" align="left" alt="Adobe Photoshop"/>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AdobePhotoshop.png" align="left" alt="Adobe Photoshop"/>
 </a>
 
 <br>
@@ -101,24 +101,24 @@
 
 <p align="center">
 	<a href="https://discord.gg/jxKUjGBmrD" target="_blank"> 
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Discord.png" alt="Discord"/>
+		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Discord.png" alt="Discord"/>
 	</a>
 	&nbsp &nbsp &nbsp
 	<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/LinkedIn.png" alt="LinkedIn"/>
+		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/LinkedIn.png" alt="LinkedIn"/>
 	</a>
 	&nbsp &nbsp &nbsp
 	<a href="https://www.instagram.com/afrizalyogi.id/" target="_blank">
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Instagram.png" alt="Instagram"/>
+		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Instagram.png" alt="Instagram"/>
 	</a>
 	&nbsp &nbsp &nbsp
 	<a href="https://dribbble.com/afrizalyogi" target="_blank"> 
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Dribbble.png" alt="Dribbble"/>
+		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Dribbble.png" alt="Dribbble"/>
 	</a>
 	&nbsp &nbsp &nbsp
 	<a href="https://github.com/afrizalyogi" target="_blank"> 
-		<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Icons/Github.png" alt="Github"/>
+		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Github.png" alt="Github"/>
 	</a>
 </p>
 
-![Bottom Animation](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
+![Bottom Animation](https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/bottom_header.svg?raw=true)
