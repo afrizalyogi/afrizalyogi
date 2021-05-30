@@ -74,11 +74,11 @@
 
 <p align="center">
 	<a href="https://git.io/streak-stats" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&hide_border=true&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" height="175px"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&hide_border=true&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak"/>
 	</a>
 	&nbsp
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
-		<img src="https://activity-graph.herokuapp.com/graph?username=afrizalyogi&bg_color=fffefe&color=161616&line=007aff&hide_border=true" alt="Activity Graph" height="175px"/>
+		<img src="https://activity-graph.herokuapp.com/graph?username=afrizalyogi&bg_color=fffefe&color=161616&line=007aff&hide_border=true" alt="Activity Graph"/>
 	</a>
 </p>
 
