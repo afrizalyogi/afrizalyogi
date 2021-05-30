@@ -4,8 +4,11 @@
 	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/Images/SaweriaQR_AY.png" align="left" alt="Support Me" width="150px"/>
 </a>
 
-<h2>&nbsp &nbsp &nbspHello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
-&nbsp <img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/wavehand.gif" width="40px"/></h2>
+<p>
+	<h2>&nbsp &nbsp &nbspHello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
+	&nbsp 
+	<img src="https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/wavehand.gif" width="40px"/></h2>
+</p>
 
 <p>
 	&nbsp &nbsp &nbsp
@@ -15,9 +18,13 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+	<br>
+	&nbsp &nbsp &nbsp
+	<a href="https://git.io/typing-svg" target="_blank">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Computer+%26+Network+Engineering+Student;Learn+Front-end+Development;Learn+UI%2FUX+Design;Love+to+learn+new+things" alt="Typing SVG"/>
+	</a>
 </p>
 
-<br>
 <br>
 
 ### 📖 About me :
@@ -65,13 +72,15 @@
 <br>
 <br>
 
-<p  align="center">
+<p align="center">
 	<a href="https://git.io/streak-stats" target="_blank">
-		<img src="http://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&theme=algolia&hide_border=true" alt="Github Streak"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&hide_border=true&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" height="175px"/>
+	</a>
+	&nbsp
+	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+		<img src="https://activity-graph.herokuapp.com/graph?username=afrizalyogi&bg_color=fffefe&color=161616&line=007aff&hide_border=true" alt="Activity Graph" height="175px"/>
 	</a>
 </p>
-
-<br>
 
 ---
 
@@ -112,4 +121,4 @@
 	</a>
 </p>
 
-![Afrizal Yogi](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
+![Bottom Animation](https://github.com/afrizalyogi/afrizalyogi.github.io/blob/master/Assets/GIF/bottom_header.svg?raw=true)
