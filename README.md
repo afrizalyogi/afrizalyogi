@@ -21,7 +21,7 @@
 	<br>
 	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Computer+%26+Network+Engineering+Student;Learn+Front-end+Development;Learn+UI%2FUX+Design;Love+to+learn+new+things" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Computer+%26+Network+Engineering+Student;Learning+Front-end+Development;Learning+UI%2FUX+Design;Love+to+learn+new+things" alt="Typing SVG"/>
 	</a>
 </p>
 
