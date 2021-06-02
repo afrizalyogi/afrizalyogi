@@ -5,7 +5,7 @@
 </a>
 
 <p>
-	<h2>&nbsp &nbsp &nbspHello, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
+	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
 	&nbsp 
 	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/></h2>
 </p>
@@ -46,12 +46,6 @@
 </a>
 <a href="https://www.gimp.org/" target="_blank">
 	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/GIMP.png" align="left" alt="GIMP"/>
-</a>
-<a href="https://affinity.serif.com/en-us/designer/" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AffinityDesigner.png" align="left" alt="Affinity Designer"/>
-</a>
-<a href="https://affinity.serif.com/en-us/photo/" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AffinityPhoto.png" align="left" alt="Affinity Photo"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
 	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AdobeIllustrator.png" align="left" alt="Adobe Illustrator"/>
