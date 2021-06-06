@@ -5,7 +5,7 @@
 </a>
 
 <p>
-	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi P.</a>
+	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi</a>
 	&nbsp 
 	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/></h2>
 </p>
