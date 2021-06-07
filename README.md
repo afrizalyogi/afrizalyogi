@@ -21,16 +21,16 @@
 	<br>
 	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Computer+%26+Network+Engineering+Student;Learning+Front-end+Development;Learning+UI%2FUX+Design;Love+to+learn+new+things" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;Interested+in+Front-end+Development;Interested+in+UI%2FUX+Design;" alt="Typing SVG"/>
 	</a>
 </p>
 
 <br>
 
 ### 📖 About me :
-- I am currently learn about UI/UX Design and Front-end Development.
-- I studied Computer and Network Engineering at Vocational High School.
-- I had an internship at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a> as a Computer Technician.
+- Currently learning about Front-end Development and UI/UX Design.
+- Graduated from Computer and Network Engineering at Vocational High School.
+- Experience as a intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
 
 <br>
 
@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <i>"Start Where You Are, Use What You Have and Do What You Can"</i>
+  <i>"Liitle things can make a big impact"</i>
 </p>
 
 <br>
