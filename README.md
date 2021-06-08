@@ -4,13 +4,13 @@
 	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Images/SaweriaQR_AY.png" align="left" alt="Support Me" width="150px"/>
 </a>
 
-<p>
+<div>
 	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi</a>
 	&nbsp 
 	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/></h2>
-</p>
+</div>
 
-<p>
+<div>
 	&nbsp &nbsp &nbsp
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -18,101 +18,92 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-	<br>
+	<br/>
 	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;Interested+in+Front-end+Development;Interested+in+UI%2FUX+Design;" alt="Typing SVG"/>
 	</a>
-</p>
+</div>
 
-<br>
+<br/>
 
 ### 📖 About me :
 - Currently learning about Front-end Development and UI/UX Design.
 - Graduated from Computer and Network Engineering at Vocational High School.
-- Experience as a intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
+- Experience as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
 
-<br>
+<br/>
 
-### ⚙ Tools :
-<a href="https://code.visualstudio.com/" target="_blank"> 
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/VSCode.png" align="left" alt="VS Code"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Git.png" align="left" alt="Git"/> 
-</a>
-<a href="https://www.figma.com/" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Figma.png" align="left" alt="Figma"/>
-</a>
-<a href="https://www.gimp.org/" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/GIMP.png" align="left" alt="GIMP"/>
-</a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AdobeIllustrator.png" align="left" alt="Adobe Illustrator"/>
-</a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/AdobePhotoshop.png" align="left" alt="Adobe Photoshop"/>
-</a>
-
-<br>
-<br>
-<br>
-
-### ⚡ Latest cool things :
-- [Teknologi Touch-less Transaction Single Lane Free Flow](https://teknologi.id/technology/ini-solusi-untuk-kurangi-kecelakaan-di-pintu-tol)
-- [Google is planning to test drones for fighting fires](https://www.digitaltrends.com/news/google-is-planning-to-test-drones-for-fighting-fires/)
-- [The car of the future? Qualcomm unveils 4th-gen Snapdragon auto platform](https://www.digitaltrends.com/cars/qualcomm-4th-gen-snapdragon-automotive-cockpit/)
-
-<br>
-<br>
-
-<p align="center">
-	<a href="https://git.io/streak-stats" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&hide_border=true&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak"/>
+### 📋 Latest Contribution :
+<div align="center">
+	<a href="https://github.com/shravan20/github-readme-quotes" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&border_radius=10" alt="Latest Contribution" width="42.5%"/>
 	</a>
 	&nbsp
-	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
-		<img src="https://activity-graph.herokuapp.com/graph?username=afrizalyogi&bg_color=fffefe&color=161616&line=007aff&hide_border=true" alt="Activity Graph"/>
+	<a href="https://github.com/Chilled-Bot/chilled-bot.github.io" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chilled-Bot&repo=chilled-bot.github.io&border_radius=10" alt="Latest Contribution" width="50%"/>
 	</a>
-</p>
+</div>
+
+<br/>
+
+### 📊 Stats :
+<div align="center">
+	<a href="https://git.io/streak-stats" target="_blank">
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" width="42.5%"/>
+	</a>
+	&nbsp
+	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api?username=afrizalyogi&hide_title=true&include_all_commits=true&count_private=true&border_radius=3" alt="Activity Graph"width="50%"/>
+	</a>
+</div>
+
+<br/>
+
+<div align="center">
+	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+		<img src="https://activity-graph.herokuapp.com/graph?username=afrizalyogi&bg_color=fffefe&color=161616&line=007aff&hide_title=true" alt="Activity Graph" width="94%"/>
+	</a>
+</div>
 
 ---
 
-<br>
+<br/>
 
-
-<p align="center">
+<div align="center">
   <i>"Liitle things can make a big impact"</i>
-</p>
+</div>
 
-<br>
+<br/>
 
-<p align="center">
+<div align="center">
 	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
 		<img src="https://img.shields.io/badge/afrizalyogi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi@outlook.com"/>
 	</a>
-</p>
+</div>
 
-<p align="center">
-	<a href="https://discord.gg/jxKUjGBmrD" target="_blank"> 
+<br/>
+
+<div align="center">
+	<a href="https://discord.gg/jxKUjGBmrD" target="_blank" style="margin: 0 auto"> 
 		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Discord.png" alt="Discord"/>
 	</a>
 	&nbsp &nbsp &nbsp
-	<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank"> 
+	<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank" style="margin: 0 auto"> 
 		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/LinkedIn.png" alt="LinkedIn"/>
 	</a>
 	&nbsp &nbsp &nbsp
-	<a href="https://www.instagram.com/afrizalyogi.id/" target="_blank">
+	<a href="https://www.instagram.com/afrizalyogi.id/" target="_blank" style="margin: 0 auto">
 		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Instagram.png" alt="Instagram"/>
 	</a>
 	&nbsp &nbsp &nbsp
-	<a href="https://dribbble.com/afrizalyogi" target="_blank"> 
+	<a href="https://dribbble.com/afrizalyogi" target="_blank" style="margin: 0 auto"> 
 		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Dribbble.png" alt="Dribbble"/>
 	</a>
 	&nbsp &nbsp &nbsp
-	<a href="https://github.com/afrizalyogi" target="_blank"> 
+	<a href="https://github.com/afrizalyogi" target="_blank" style="margin: 0 auto"> 
 		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Github.png" alt="Github"/>
 	</a>
-</p>
+</div>
 
 ![Bottom Animation](https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/bottom_header.svg?raw=true)
