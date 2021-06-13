@@ -28,9 +28,9 @@
 <br/>
 
 ### 📖 About me :
-- Currently learning about Front-end Development and UI/UX Design.
-- Graduated from Computer and Network Engineering at Vocational High School.
-- Experience as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
+- Created User Interface design by analyzing User Experience to develop responsive and user friendly website.
+- Accomplish Computer and Network Engineering study at Vocational High School.
+- Experienced as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
 
 <br/>
 
