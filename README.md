@@ -21,7 +21,7 @@
 	<br/>
 	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;Interested+in+Front-end+Development;Interested+in+UI%2FUX+Design;" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;" alt="Typing SVG"/>
 	</a>
 </div>
 
@@ -29,7 +29,7 @@
 
 ### 📖 About me :
 - Created User Interface design by analyzing User Experience to develop responsive and user friendly website.
-- Accomplish Computer and Network Engineering study at Vocational High School.
+- Graduated Computer and Network Engineering study at Vocational High School.
 - Experienced as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
 
 <br/>
