@@ -28,7 +28,7 @@
 <br/>
 
 ### 📖 About me :
-- Created User Interface design by analyzing User Experience to develop responsive and user friendly website.
+- Currently Ongoing as an Undergraduate Informatics Engineering Student.
 - Graduated Computer and Network Engineering study at Vocational High School.
 - Experienced as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
 
