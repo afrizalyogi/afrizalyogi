@@ -12,14 +12,6 @@
 
 <div>
 	&nbsp &nbsp &nbsp
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-	<br/>
-	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;" alt="Typing SVG"/>
 	</a>
@@ -85,10 +77,6 @@
 <br/>
 
 <div align="center">
-	<a href="https://discord.gg/jxKUjGBmrD" target="_blank" style="margin: 0 auto"> 
-		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/Discord.png" alt="Discord"/>
-	</a>
-	&nbsp &nbsp &nbsp
 	<a href="https://www.linkedin.com/in/afrizalyogi" target="_blank" style="margin: 0 auto"> 
 		<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Icons/LinkedIn.png" alt="LinkedIn"/>
 	</a>
