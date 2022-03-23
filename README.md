@@ -30,9 +30,7 @@
 
 <br/>
 
-![Metrics](/github-metrics.svg)
-
-<br/>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
@@ -46,7 +44,7 @@
 
 <div align="center">
 	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
-		<img src="https://img.shields.io/badge/mail@afrizalyogi.tech-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="mail@afrizalyogi.tech"/>
+		<img src="https://img.shields.io/badge/afrizalyogi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi@outlook.com"/>
 	</a>
 </div>
 
