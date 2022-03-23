@@ -7,7 +7,7 @@
 <div>
 	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi</a>
 	&nbsp 
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/></h2>
+	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="30px"/></h2>
 </div>
 
 <div>
@@ -20,56 +20,32 @@
 <br/>
 
 ### 📖 About me :
-- Currently Ongoing as an Undergraduate Informatics Engineering Student.
-- Graduated Computer and Network Engineering study at Vocational High School.
-- Experienced as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
+- Currently being an Informatics Engineering Undergraduate Student.
+- Graduated in Computer and Network Engineering studies at Vocational High School.
+- Experienced as a Computer Technician intern at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
 
 <br/>
 
-### 📋 Latest Contribution :
-<div align="center">
-	<a href="https://github.com/shravan20/github-readme-quotes" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&border_radius=10" alt="Latest Contribution" width="42.5%"/>
-	</a>
-	&nbsp
-	<a href="https://github.com/Chilled-Bot/chilled-bot.github.io" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chilled-Bot&repo=chilled-bot.github.io&border_radius=10" alt="Latest Contribution" width="50%"/>
-	</a>
-</div>
+---
 
 <br/>
 
-### 📊 Stats :
-<div align="center">
-	<a href="https://git.io/streak-stats" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=afrizalyogi&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" width="42.5%"/>
-	</a>
-	&nbsp
-	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=afrizalyogi&hide_title=true&include_all_commits=true&count_private=true&border_radius=3" alt="Activity Graph"width="50%"/>
-	</a>
-</div>
+![Metrics](/github-metrics.svg)
 
 <br/>
-
-<div align="center">
-	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
-		<img src="https://activity-graph.herokuapp.com/graph?username=afrizalyogi&bg_color=fffefe&color=161616&line=007aff&hide_title=true" alt="Activity Graph" width="94%"/>
-	</a>
-</div>
 
 ---
 
 <br/>
 
 <div align="center">
-  <i>"Liitle things can make a big impact"</i>
+  <i>"Little things can have a big impact"</i>
 </div>
 
 <br/>
 
 <div align="center">
-	<a href="mailto:mail@afrizalyogi.tech" target="_blank">
+	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
 		<img src="https://img.shields.io/badge/mail@afrizalyogi.tech-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="mail@afrizalyogi.tech"/>
 	</a>
 </div>
@@ -94,4 +70,4 @@
 	</a>
 </div>
 
-![Bottom Animation](https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/bottom_header.svg?raw=true)
+![Bottom Animation](https://github.com/afrizalyogi/afrizalyogi/blob/main/assets/bottom_header.svg?raw=true)
