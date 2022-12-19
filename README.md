@@ -1,9 +1,4 @@
 <!-- Afrizal Yogi - README Profiles -->
-
-<a href="https://saweria.co/afrizalyogi" target="_blank">
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/Images/SaweriaQR_AY.png" align="left" alt="Support Me" width="150px"/>
-</a>
-
 <div>
 	<h2>&nbsp &nbsp &nbspHi, I am <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi</a>
 	&nbsp 
@@ -13,13 +8,13 @@
 <div>
 	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;I+Design,+Develop,+and+Always+Learn;" alt="Typing SVG"/>
 	</a>
 </div>
 
 <br/>
 
-### 📖 About me :
+## 📖 About me :
 - Currently being an Informatics Engineering Undergraduate Student.
 - Graduated in Computer and Network Engineering studies at Vocational High School.
 - Experienced as a Computer Technician intern at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
@@ -30,7 +25,11 @@
 
 <br/>
 
-<img src="/github-metrics.svg" alt="Metrics">
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=afrizalyogi&theme=dark&hide_border=false)
+</div>
 
 ---
 
@@ -43,8 +42,8 @@
 <br/>
 
 <div align="center">
-	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
-		<img src="https://img.shields.io/badge/afrizalyogi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi@outlook.com"/>
+	<a href="mailto:afrizalyogi.id@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/afrizalyogi.id@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi.id@gmail.com"/>
 	</a>
 </div>
 
