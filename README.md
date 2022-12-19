@@ -42,8 +42,8 @@
 <br/>
 
 <div align="center">
-	<a href="mailto:afrizalyogi.id@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/afrizalyogi.id@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi.id@gmail.com"/>
+	<a href="mailto:afrizalyogi@outlook.com" target="_blank">
+		<img src="https://img.shields.io/badge/afrizalyogi@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="afrizalyogi@outlook.com"/>
 	</a>
 </div>
 
