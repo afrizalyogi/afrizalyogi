@@ -15,10 +15,11 @@
 <br/>
 
 ## 📖 About me :
-- Expeirenced as a Website Developer Intern at <a href="https://dibimbing.id/"  target="_blank">Dibimbing.id</a> Digital Marketing Agency <a href="https://dibilabs.id/"  target="_blank">Dibilabs.id</a>.
-- Currently being an Informatics Engineering Undergraduate Student.
-- Graduated in Computer and Network Engineering studies at Vocational High School.
-- Experienced as a Computer Technician intern at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
+A passionate Informatics Engineering student and versatile **Web Developer & UI/UX Designer**. I specialize in crafting intuitive, user-centered digital experiences, bridging the gap from concept to code.
+
+My expertise spans **Frontend Development** (HTML, CSS, JavaScript, React.js), **UI/UX Design** (Figma, user research), and foundational **Full Stack development** (Node.js, PHP Laravel).
+
+My experience as a Frontend Developer at Telkom Indonesia further refined my skills in building large-scale applications and fostering cross-functional collaboration. I also have a strong track record of successful freelance projects since 2021.
 
 <br/>
 
