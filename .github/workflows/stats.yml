@@ -1,0 +1,41 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_stats.py
+
+      - name: Switch to generated branch
+        run: |
+          git config --global user.name "stats-bot"
+          git config --global user.email "stats-bot@users.noreply.github.com"
+          git checkout generated 2>/dev/null || git checkout --orphan generated
+          # Remove everything except stats/
+          find . -maxdepth 1 ! -name 'stats' ! -name '.' ! -name '..' -exec rm -rf {} +
+          mv stats/* . 2>/dev/null || true
+          rm -rf stats
+
+      - name: Commit and push
+        run: |
+          git add -A
+          git commit -m "Update stats: $(date +%Y-%m-%d)" || true
+          git push origin generated --force
