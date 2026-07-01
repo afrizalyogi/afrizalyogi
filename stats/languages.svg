@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
-  <defs><style>text{font-family:"JetBrains Mono","Courier New",monospace;font-size:12px} .num{fill:#E6EDF3;font-size:13px} .pct{fill:#8B949E} .lbl{fill:#E6EDF3}</style></defs>
-  <rect width="400" height="200" fill="#0D1117" rx="8"/>
-  <rect x="1" y="1" width="398" height="198" fill="none" stroke="#30363D" stroke-width="1" rx="8"/>
-  <text x="16" y="24" fill="#3B82F6" font-family="JetBrains Mono,monospace" font-size="13">$</text>
-  <text x="30" y="24" fill="#E6EDF3" font-family="JetBrains Mono,monospace" font-size="13">github-langs --user afrizalyogi</text>
-  <text x="16" y="70" fill="#8B949E" font-family="JetBrains Mono,monospace" font-size="12">Waiting for first Action run...</text>
-</svg>

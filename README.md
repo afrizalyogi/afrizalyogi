@@ -24,14 +24,6 @@ Stack: Next.js · Supabase · Python · n8n
 
 ---
 
-**Stats** · public repos only
-
-<!-- stats starts -->
-![stats overview](stats/overview.svg) | ![languages](stats/languages.svg)
-<!-- stats ends -->
-
----
-
 **Now**
 <!-- now starts -->
 AY Labs · AI workflow automation · [labs.aycorp.id](https://labs.aycorp.id)
