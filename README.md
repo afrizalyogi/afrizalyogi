@@ -1,25 +1,68 @@
-# Afrizal Yogi
+<div align="center">
 
-Founder @ [AY Labs](https://labs.aycorp.id) · Full-Stack Engineer · Systems Architect
+```
+AFRIZAL YOGI  ·  FOUNDER · ENGINEER · BUILDER
+```
 
-Building production systems and workflow automation for Indonesian enterprises.
-Next.js · Supabase · Python · n8n · Laravel
-
----
-
-**Shipped:**
-- Platform serving 100+ universities across 3 countries (300K+ concurrent requests)
-- Production systems taken from Lighthouse 40 → 99, load time < 1s
-- Automated workflows saving 10+ operational hours weekly
-
-**Currently:**
-Building AY Labs — auditing business operations, eliminating manual bottlenecks, deploying custom agentic pipelines.
+</div>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=afrizalyogi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Building** [AY Labs](https://labs.aycorp.id) — AI automation for Indonesian enterprises.
+
+Full-stack engineer who ships from schema to production. No middle layers, no hand-offs.
+
+Currently: auditing business ops, finding manual bottlenecks, deploying agentic pipelines.
+
+</td>
+<td width="45%" valign="top" align="right">
+
+```
+Stack
+─────────────────────
+Next.js   Supabase
+Python    n8n
+Laravel   Node.js
+─────────────────────
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Contact**
-afrizalyogi@aycorp.id · [labs.aycorp.id](https://labs.aycorp.id) · [LinkedIn](https://linkedin.com/in/afrizalyogi) · [Instagram](https://instagram.com/afrizalyogi.id)
+**Shipped**
+
+```
+Platform  ·  100+ universities · 3 countries · 300K+ concurrent req
+Systems   ·  Lighthouse 40 → 99 · load time < 1s
+Ops       ·  10+ hours/week reclaimed via automation
+```
+
+---
+
+**Building**
+
+```
+AY Labs  ·  AI workflow automation · enterprise Indonesia
+```
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=afrizalyogi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+<div align="center">
+<samp>
+<a href="mailto:afrizalyogi@aycorp.id">email</a> ·
+<a href="https://labs.aycorp.id">labs.aycorp.id</a> ·
+<a href="https://linkedin.com/in/afrizalyogi">linkedin</a> ·
+<a href="https://instagram.com/afrizalyogi.id">instagram</a>
+</samp>
+</div>
