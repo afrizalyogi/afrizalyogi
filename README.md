@@ -1,24 +1,14 @@
-```ts
-// afrizalyogi.ts
+I build production systems and AI workflow automation for Indonesian enterprises.
 
-const builder = {
-  name:    "Afrizal Yogi",
-  role:    "Founder @ AY Labs · Full-Stack Engineer",
-  focus:   "AI automation for Indonesian enterprises",
-  stack:   ["Next.js", "Supabase", "Python", "n8n", "Laravel"],
-  now:     "Auditing ops, killing manual workflows, shipping agents",
-};
-```
+I run [**AY Labs**](https://labs.aycorp.id) — we audit business operations, kill manual bottlenecks, and deploy agents that actually ship.
 
 ---
 
 **Shipped**
 
-```
-[ platform ]  100+ universities · 3 countries · 300K+ concurrent req
-[ systems  ]  Lighthouse 40 → 99  ·  load time < 1s
-[ ops      ]  10+ hours/week reclaimed via automation
-```
+Platform that handles 100+ universities across 3 countries · 300K+ concurrent requests. Took a system from Lighthouse 40 to 99, load under a second. Reclaiming 10+ hours per week through automation.
+
+Stack: Next.js · Supabase · Python · n8n
 
 ---
 
@@ -37,7 +27,7 @@ const builder = {
 **Stats** · public repos only
 
 <!-- stats starts -->
-![stats overview](https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/generated/overview.svg)
+![stats overview](stats/overview.svg) | ![languages](stats/languages.svg)
 <!-- stats ends -->
 
 ---
@@ -49,4 +39,4 @@ AY Labs · AI workflow automation · [labs.aycorp.id](https://labs.aycorp.id)
 
 ---
 
-<samp>[email](mailto:afrizalyogi@aycorp.id) · [labs.aycorp.id](https://labs.aycorp.id) · [linkedin](https://linkedin.com/in/afrizalyogi) · [instagram](https://instagram.com/afrizalyogi.id)</samp>
+<samp>[email](mailto:afrizalyogi@aycorp.id) · [linkedin](https://linkedin.com/in/afrizalyogi) · [instagram](https://instagram.com/afrizalyogi.co)</samp>

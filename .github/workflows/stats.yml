@@ -2,7 +2,7 @@ name: Generate Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,18 +24,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/generate_stats.py
 
-      - name: Switch to generated branch
+      - name: Commit and push to main
         run: |
           git config --global user.name "stats-bot"
           git config --global user.email "stats-bot@users.noreply.github.com"
-          git checkout generated 2>/dev/null || git checkout --orphan generated
-          # Remove everything except stats/
-          find . -maxdepth 1 ! -name 'stats' ! -name '.' ! -name '..' -exec rm -rf {} +
-          mv stats/* . 2>/dev/null || true
-          rm -rf stats
-
-      - name: Commit and push
-        run: |
           git add -A
-          git commit -m "Update stats: $(date +%Y-%m-%d)" || true
-          git push origin generated --force
+          git diff --cached --quiet || git commit -m "Update stats: $(date +%Y-%m-%d)"
+          git push
