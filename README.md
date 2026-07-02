@@ -26,7 +26,11 @@ Stack: Next.js · Supabase · Python · n8n
 
 **Now**
 <!-- now starts -->
-AY Labs · AI workflow automation · [labs.aycorp.id](https://labs.aycorp.id)
+[afrizalyogi](https://github.com/afrizalyogi/afrizalyogi) — Repository with README.md for my public profile · `★2`
+[wajs](https://github.com/afrizalyogi/wajs) · `JavaScript`
+[sims-ppob-afrizalyogi](https://github.com/afrizalyogi/sims-ppob-afrizalyogi) · `TypeScript`
+[bentopdf](https://github.com/afrizalyogi/bentopdf) — A Privacy First PDF Toolkit · `TypeScript`
+[afrizalyogi.github.io](https://github.com/afrizalyogi/afrizalyogi.github.io) — Repository for my personal website · `JavaScript · ★4`
 <!-- now ends -->
 
 ---
