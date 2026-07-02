@@ -6,7 +6,9 @@ I run [**AY Labs**](https://labs.aycorp.id) — we audit business operations, ki
 
 **Shipped**
 
-Platform that handles 100+ universities across 3 countries · 300K+ concurrent requests. Took a system from Lighthouse 40 to 99, load under a second. Reclaiming 10+ hours per week through automation.
+* **Scale:** Multi-tenant web app serving 100+ universities across 3 countries (700K+ requests).
+* **Performance:** Enterprise loading times optimized to <1s (Lighthouse 40 → 99).
+* **Efficiency:** Repetitive engineering workflows automated to save 10+ hours weekly.
 
 Stack: Next.js · Supabase · Python · n8n
 
@@ -21,17 +23,6 @@ Stack: Next.js · Supabase · Python · n8n
 <a href="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3">
   <img src="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3" alt="streak" />
 </a>
-
----
-
-**Now**
-<!-- now starts -->
-[afrizalyogi](https://github.com/afrizalyogi/afrizalyogi) — Repository with README.md for my public profile · `★2`
-[wajs](https://github.com/afrizalyogi/wajs) · `JavaScript`
-[sims-ppob-afrizalyogi](https://github.com/afrizalyogi/sims-ppob-afrizalyogi) · `TypeScript`
-[bentopdf](https://github.com/afrizalyogi/bentopdf) — A Privacy First PDF Toolkit · `TypeScript`
-[afrizalyogi.github.io](https://github.com/afrizalyogi/afrizalyogi.github.io) — Repository for my personal website · `JavaScript · ★4`
-<!-- now ends -->
 
 ---
 
