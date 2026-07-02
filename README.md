@@ -6,7 +6,7 @@ I run [**AY Labs**](https://labs.aycorp.id) — we audit business operations, ki
 
 **Shipped**
 
-* **Scale:** Multi-tenant web app serving 100+ universities across 3 countries (700K+ requests).
+* **Scale:** Multi-tenant web app serving 100+ universities across 3 countries (1M+ requests).
 * **Performance:** Enterprise loading times optimized to <1s (Lighthouse 40 → 99).
 * **Efficiency:** Repetitive engineering workflows automated to save 10+ hours weekly.
 
