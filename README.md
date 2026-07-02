@@ -20,9 +20,11 @@ Stack: Next.js · Supabase · Python · n8n
 
 ---
 
-<a href="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3">
-  <img src="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3" alt="streak" />
-</a>
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3">
+    <img src="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3" alt="streak" />
+  </a>
+</p>
 
 ---
 
