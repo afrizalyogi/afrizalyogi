@@ -1,4 +1,4 @@
-I build production systems and AI workflow automation for Indonesian enterprises.
+Built production systems for Indonesian enterprises.
 
 I run [**AY Labs**](https://labs.aycorp.id) — we audit business operations, kill manual bottlenecks, and deploy agents that actually ship.
 
