@@ -1,6 +1,6 @@
 Built production systems for Indonesian enterprises.
 
-I run [**AY Labs**](https://labs.aycorp.id) — we audit business operations, kill manual bottlenecks, and deploy agents that actually ship.
+I run [**AY Labs**](https://labs.aycorp.id) — delivering ready-to-use products, crafting custom software, and building automation systems to scale businesses.
 
 ---
 
