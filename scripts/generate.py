@@ -289,7 +289,7 @@ def stack_card(d: dict) -> str:
     )
     body = [
         f'<text x="36" y="74" fill="{TEXT}" font-size="18" font-weight="700">Language Stack</text>',
-        f'<text x="36" y="94" fill="{ACCENT}" font-size="12">Repository-weighted technologies</text>',
+        f'<text x="36" y="94" fill="{ACCENT}" font-size="12">Public repos · weighted by code size</text>',
     ]
     for i, (name, pct, color) in enumerate(langs):
         y = 128 + i * 34
@@ -349,9 +349,9 @@ ABOUT = {
     "intro": "I run AY Labs: delivering ready-to-use products, crafting custom software, "
              "and building automation systems to scale businesses.",
     "shipped": [
-        ("1M+", "Scale", "Multi-tenant web app", "100+ universities · 3 countries"),
-        ("<1s", "Performance", "Enterprise load time", "Lighthouse 40 → 99"),
-        ("10h+", "Efficiency", "Saved every week", "Engineering workflows automated"),
+        ("1M+", "Quision", "Requests served", "100+ universities · 4 countries"),
+        ("<1s", "Wisecon", "Bank cash-mgmt load", "Lighthouse 40 → 99 · BCA, BRI"),
+        ("7-in-1", "AY Labs", "Internal ERP + WA inbox", "CRM · finance · 3 portals"),
     ],
     "stack": [("TypeScript", "#3178c6"), ("PostgreSQL", "#336791")],
 }
