@@ -25,25 +25,24 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate SVG cards
-        run: |
-          pip install pillow chess
-          python scripts/generate.py "${{ github.repository_owner }}"
-          python scripts/chess_game.py render
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate 3D contribution city
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Generate SVG cards
+        run: |
+          pip install pillow
+          python scripts/generate.py "${{ github.repository_owner }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets profile-3d-contrib chess README.md
+          git add assets profile-3d-contrib
           git diff --cached --quiet || git commit -m "chore: refresh profile cards"
           git pull --rebase -q
           git push

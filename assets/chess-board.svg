@@ -2,8 +2,8 @@
 <style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace} @keyframes blink{50%{opacity:.25}} .live{animation:blink 1.6s ease-in-out infinite}</style>
 <rect x="1" y="1" width="858" height="486" rx="14" fill="#0d1117" stroke="#1e2a36" stroke-width="1.5"/>
 <circle cx="24" cy="22" r="5.5" fill="#ff5f57"/><circle cx="42" cy="22" r="5.5" fill="#febc2e"/><circle cx="60" cy="22" r="5.5" fill="#28c840"/>
-<text x="82" y="26.5" fill="#8b949e" font-size="12">chess.play · game #1</text>
-<text x="830" y="26.5" fill="#3ddc97" font-size="12" text-anchor="end"><tspan class="live">●</tspan> open to everyone</text>
+<text x="82" y="26.5" fill="#8b949e" font-size="12">chess.play</text>
+<text x="830" y="26.5" fill="#3ddc97" font-size="12" text-anchor="end"><tspan class="live">●</tspan> click to play</text>
 <line x1="1" y1="42" x2="859" y2="42" stroke="#1e2a36"/>
 <rect x="40" y="64" width="48" height="48" fill="#24333f"/>
 <text x="64.0" y="100.0" fill="#3ddc97" font-size="34" text-anchor="middle">♜&#xFE0E;</text>
@@ -117,10 +117,9 @@
 <text x="27" y="380.0" fill="#8b949e" font-size="11" text-anchor="middle">2</text>
 <text x="400.0" y="465" fill="#8b949e" font-size="11" text-anchor="middle">h</text>
 <text x="27" y="428.0" fill="#8b949e" font-size="11" text-anchor="middle">1</text>
-<text x="470" y="86" fill="#e6edf3" font-size="20" font-weight="700">Your move: White</text>
-<text x="470" y="108" fill="#8b949e" font-size="12">Move 1 · you play White, the bot plays Black</text>
-<text x="470" y="148" fill="#3ddc97" font-size="12">&gt; recent_moves</text>
-<text x="470" y="174" fill="#8b949e" font-size="13">No moves yet. Be the first!</text>
-<text x="470" y="408" fill="#3ddc97" font-size="12">&gt; scoreboard</text>
-<text x="470" y="434" font-size="14"><tspan fill="#e6edf3" font-weight="700">0</tspan><tspan fill="#8b949e"> visitors  </tspan><tspan fill="#e6edf3" font-weight="700">0</tspan><tspan fill="#8b949e"> bot  </tspan><tspan fill="#e6edf3" font-weight="700">0</tspan><tspan fill="#8b949e"> draws</tspan></text>
+<text x="470" y="86" fill="#e6edf3" font-size="20" font-weight="700">Play me in chess</text>
+<text x="470" y="112" fill="#8b949e" font-size="13">You play White. My bot plays Black.</text>
+<text x="470" y="134" fill="#8b949e" font-size="13">Runs in your browser, no sign-in.</text>
+<rect x="470" y="170" width="190" height="40" rx="20" fill="#0f161f" stroke="#3ddc97"/>
+<text x="565" y="195" fill="#3ddc97" font-size="14" font-weight="700" text-anchor="middle">&#9654; Start game</text>
 </svg>
