@@ -1,13 +1,26 @@
 {
   "game": 1,
-  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
-  "moves": [],
-  "log": [],
-  "players": {},
+  "fen": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+  "moves": [
+    "e2e4",
+    "d7d5"
+  ],
+  "log": [
+    {
+      "user": "afrizalyogi",
+      "move": "e4",
+      "reply": "d5",
+      "at": "2026-11-02T16:43:35+00:00"
+    }
+  ],
+  "players": {
+    "afrizalyogi": 1
+  },
   "score": {
     "visitors": 0,
     "bot": 0,
     "draws": 0
   },
-  "result": null
+  "result": null,
+  "rev": 1
 }
