@@ -1,8 +1,12 @@
+<p align="center">
+  <a href="https://afrizalyogi.my.id">
+    <img src="./assets/profile.svg" alt="Afrizal Yogi P. · Building Full-Stack Systems and Workflow Automation" width="100%" />
+  </a>
+</p>
+
 Built production systems for Indonesian enterprises.
 
-I run [**AY Labs**](https://labs.aycorp.id) — delivering ready-to-use products, crafting custom software, and building automation systems to scale businesses.
-
----
+I run [**AY Labs**](https://labs.aycorp.id): delivering ready-to-use products, crafting custom software, and building automation systems to scale businesses.
 
 **Shipped**
 
@@ -12,20 +16,24 @@ I run [**AY Labs**](https://labs.aycorp.id) — delivering ready-to-use products
 
 **Core Stack:** `TypeScript` · `PostgreSQL` · `Python` · `n8n`
 
----
-
-<!-- **Contributions — 31 days**
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afrizalyogi&theme=github-dark-dimmed&area=true&area_color=1A1A2E&line=E6EDF3&point=3B82F6&bg_color=0d1117&hide_border=true&custom_title=)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
---- -->
-
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3">
-    <img src="https://streak-stats.demolab.com?user=afrizalyogi&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3&sideNums=E6EDF3" alt="streak" />
-  </a>
+  <img src="./assets/stack.svg" alt="Language stack" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/year.svg" alt="Contributions in the last year" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%" />
+</p>
 
-<samp>[email](mailto:afrizalyogi@aycorp.id) · [linkedin](https://linkedin.com/in/afrizalyogi) · [instagram](https://instagram.com/afrizalyogi.co)</samp>
+<p align="center">
+  <img src="./assets/game.gif" alt="Space Shooter: my contributions, under attack" width="100%" />
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://afrizalyogi.my.id">website</a> ·
+    <a href="mailto:afrizalyogi@aycorp.id">email</a> ·
+    <a href="https://linkedin.com/in/afrizalyogi">linkedin</a> ·
+    <a href="https://instagram.com/afrizalyogi.co">instagram</a>
+  </samp>
+</p>

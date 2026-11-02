@@ -1,0 +1,30 @@
+name: Update Space Shooter
+
+on:
+  schedule:
+    - cron: "30 17 * * 0"   # weekly, Monday 00:30 WIB (after the cards job)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/game.gif
+          strategy: random
+          fps: 25
+          no-amend: "true"
+          commit-message: "chore: refresh space shooter"
