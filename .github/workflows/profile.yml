@@ -2,11 +2,11 @@ name: Update profile cards
 
 on:
   schedule:
-    - cron: "17 1 * * *"   # every day, 08:17 WIB
+    - cron: "17 1 * * 1"   # weekly, Monday 08:17 WIB
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["scripts/**", ".github/workflows/profile.yml"]
+    paths: ["scripts/**", ".github/workflows/profile.yml", "README.md"]
 
 permissions:
   contents: write

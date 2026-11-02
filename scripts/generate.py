@@ -307,7 +307,7 @@ def year_card(d: dict) -> str:
     h = 180
     body = [
         f'<text x="36" y="80" fill="{TEXT}" font-size="18" font-weight="700">The city I built this year</text>',
-        f'<text x="36" y="100" fill="{MUTED}" font-size="12">Last 365 days · refreshed daily</text>',
+        f'<text x="36" y="100" fill="{MUTED}" font-size="12">Last 365 days · refreshed weekly</text>',
     ]
     stats = [
         (d["contributions"], "contributions"),
@@ -340,14 +340,23 @@ ABOUT = {
              "and building automation systems to scale businesses.",
     "shipped": [
         ("1M+", "Requests served", "100+ universities · 4 countries"),
-        ("<1s", "Enterprise load time", "Lighthouse 40 → 99 · bank clients"),
-        ("10h+", "Saved every week", "Billing, payouts, alerts automated"),
-        ("0", "Lost exam answers", "Batched saves · crash recovery"),
-        ("RAG", "Enterprise chatbots", "Doc ingestion · vector search"),
-        ("AI ops", "Agent console", "Role-based access · WhatsApp"),
+        ("<1s", "Enterprise load time", "Lighthouse 40 → 99"),
+        ("10h+", "Ops hours saved weekly", "Billing · payouts · alerts"),
     ],
-    "stack": [("TypeScript", "#3178c6"), ("PostgreSQL", "#336791"), ("Next.js", "#e6edf3"),
-              ("SvelteKit", "#ff3e00"), ("n8n", "#ea4b71"), ("kopi", "#a0703c")],
+    "built": [
+        ("DCT Web Pro", "Cash management for enterprise banks"),
+        ("AY ERP", "CRM, finance, docs, WhatsApp inbox"),
+        ("Cloudarta", "Cloud reseller + commission payouts"),
+        ("CBT", "Online exams, live proctor controls"),
+        ("Wiseman", "AI agents spawned onto WhatsApp"),
+        ("RAG Chatbot", "Upload docs, embed bot anywhere"),
+        ("Report Validation", "Bank regulatory report checks"),
+        ("FlowSpec", "Business brief → specs for AI"),
+        ("Typ", "Short links, QR, click analytics"),
+        ("Internship Portal", "Role-based data access (UU PDP)"),
+    ],
+    "stack": [("TypeScript", "#3178c6"), ("PostgreSQL", "#336791"), ("React/Next.js", "#61dafb"),
+              ("SvelteKit", "#ff3e00")],
 }
 
 
@@ -373,7 +382,18 @@ def about_card() -> str:
             f'<text x="{x + 18}" y="{y + 56}" fill="{TEXT}" font-size="13">{escape(label)}</text>'
             f'<text x="{x + 18}" y="{y + 72}" fill="{MUTED}" font-size="11">{escape(sub)}</text></g>'
         )
-    sy = 184 + -(-len(a["shipped"]) // 3) * (bh + gap) + 16
+    by = 184 + -(-len(a["shipped"]) // 3) * (bh + gap) + 18
+    body.append(f'<text x="36" y="{by}" fill="{ACCENT}" font-size="12">&gt; built</text>')
+    for i, (name, desc) in enumerate(a["built"]):
+        col, row = i % 2, i // 2
+        x, y = 36 + col * 402, by + 28 + row * 40
+        body.append(
+            f'<g class="fade" style="animation-delay:{.5 + i * .05:.2f}s">'
+            f'<text x="{x}" y="{y}" font-size="13"><tspan fill="{ACCENT}">▸</tspan>'
+            f'<tspan fill="{TEXT}" font-weight="700" dx="8">{escape(name)}</tspan></text>'
+            f'<text x="{x + 18}" y="{y + 17}" fill="{MUTED}" font-size="12">{escape(desc)}</text></g>'
+        )
+    sy = by + 28 + -(-len(a["built"]) // 2) * 40
     body.append(f'<text x="36" y="{sy + 18}" fill="{ACCENT}" font-size="12">&gt; core_stack</text>')
     x = 150
     for i, (name, color) in enumerate(a["stack"]):

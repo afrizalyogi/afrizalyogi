@@ -2,7 +2,7 @@ name: Update Space Shooter
 
 on:
   schedule:
-    - cron: "47 1 * * *"   # every day, 08:47 WIB (after the cards job)
+    - cron: "47 1 * * 1"   # weekly, Monday 08:47 WIB (after the cards job)
   workflow_dispatch:
 
 permissions:

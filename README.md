@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://labs.aycorp.id">
-    <img src="./assets/about.svg?v=202611021725" alt="Built production systems for Indonesian enterprises. Shipped: 1M+ requests served across 100+ universities in 4 countries; enterprise load time under 1s (Lighthouse 40 to 99); 10+ hours saved weekly through automation; zero lost exam answers; enterprise RAG chatbots; AI agent console. Core stack: TypeScript, PostgreSQL, Next.js, SvelteKit, n8n." width="100%" />
+    <img src="./assets/about.svg?v=202611021725" alt="Built production systems for Indonesian enterprises. Shipped: 1M+ requests across 100+ universities in 4 countries; enterprise load time under 1s (Lighthouse 40 to 99); 10+ ops hours saved weekly. Built: DCT Web Pro, AY ERP, Cloudarta, CBT, Wiseman, RAG Chatbot, Report Validation, FlowSpec, Typ, Internship Portal. Core stack: TypeScript, PostgreSQL, React/Next.js, SvelteKit." width="100%" />
   </a>
 </p>
 
