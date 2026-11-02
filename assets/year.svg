@@ -10,8 +10,8 @@
 
 <line x1="1" y1="42" x2="859" y2="42" stroke="#1e2a36"/>
 <text x="36" y="80" fill="#e6edf3" font-size="18" font-weight="700">The city I built this year</text>
-<text x="36" y="100" fill="#8b949e" font-size="12">Last 365 days · refreshed weekly</text>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" fill="freeze"/><text x="36" y="136" fill="#3ddc97" font-size="26" font-weight="700">1,578</text><text x="36" y="152" fill="#8b949e" font-size="12">contributions</text></g>
+<text x="36" y="100" fill="#8b949e" font-size="12">Last 365 days · refreshed daily</text>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" fill="freeze"/><text x="36" y="136" fill="#3ddc97" font-size="26" font-weight="700">1,579</text><text x="36" y="152" fill="#8b949e" font-size="12">contributions</text></g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;1" dur="0.72s" fill="freeze"/><text x="241" y="136" fill="#3ddc97" font-size="26" font-weight="700">179</text><text x="241" y="152" fill="#8b949e" font-size="12">active days</text></g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.286;1" dur="0.84s" fill="freeze"/><text x="446" y="136" fill="#3ddc97" font-size="26" font-weight="700">156</text><text x="446" y="152" fill="#8b949e" font-size="12">busiest day</text></g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.375;1" dur="0.96s" fill="freeze"/><text x="651" y="136" fill="#3ddc97" font-size="26" font-weight="700">27</text><text x="651" y="152" fill="#8b949e" font-size="12">longest streak</text></g>
@@ -40,5 +40,5 @@
 <rect x="780" y="83.2" width="7" height="20.8" rx="1.5" fill="#3ddc97" opacity="0.67"/>
 <rect x="790" y="96.4" width="7" height="7.6" rx="1.5" fill="#3ddc97" opacity="0.42"/>
 <rect x="800" y="66.0" width="7" height="38.0" rx="1.5" fill="#3ddc97" opacity="1.00"/>
-<rect x="810" y="98.9" width="7" height="5.1" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+<rect x="810" y="98.8" width="7" height="5.2" rx="1.5" fill="#3ddc97" opacity="0.37"/>
 </svg>
