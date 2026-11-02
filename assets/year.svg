@@ -10,7 +10,7 @@
 
 <line x1="1" y1="42" x2="859" y2="42" stroke="#1e2a36"/>
 <text x="36" y="80" fill="#e6edf3" font-size="18" font-weight="700">The city I built this year</text>
-<text x="36" y="100" fill="#8b949e" font-size="12">Last 365 days · refreshed daily</text>
+<text x="36" y="100" fill="#8b949e" font-size="12">Last 365 days · refreshed weekly</text>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" fill="freeze"/><text x="36" y="136" fill="#3ddc97" font-size="26" font-weight="700">1,582</text><text x="36" y="152" fill="#8b949e" font-size="12">contributions</text></g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;1" dur="0.72s" fill="freeze"/><text x="241" y="136" fill="#3ddc97" font-size="26" font-weight="700">179</text><text x="241" y="152" fill="#8b949e" font-size="12">active days</text></g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.286;1" dur="0.84s" fill="freeze"/><text x="446" y="136" fill="#3ddc97" font-size="26" font-weight="700">156</text><text x="446" y="152" fill="#8b949e" font-size="12">busiest day</text></g>
