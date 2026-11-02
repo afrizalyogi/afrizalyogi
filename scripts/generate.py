@@ -5,6 +5,8 @@ Reads public data from the GitHub GraphQL API and writes:
   assets/profile.svg   - header card with stats + pixel portrait
   assets/stack.svg     - repository-weighted language stack
   assets/year.svg      - contribution numbers for the last year
+  assets/about.svg     - intro, shipped metrics and core stack
+  assets/chess.svg     - auto-playing chess replay (The Opera Game, 1858)
 
 Usage:
   GH_TOKEN=... python scripts/generate.py <username>
@@ -315,7 +317,7 @@ def year_card(d: dict) -> str:
     h = 180
     body = [
         f'<text x="36" y="80" fill="{TEXT}" font-size="18" font-weight="700">The city I built this year</text>',
-        f'<text x="36" y="100" fill="{MUTED}" font-size="12">Last 365 days · refreshed weekly</text>',
+        f'<text x="36" y="100" fill="{MUTED}" font-size="12">Last 365 days · refreshed daily</text>',
     ]
     stats = [
         (d["contributions"], "contributions"),
@@ -341,6 +343,183 @@ def year_card(d: dict) -> str:
     return frame(h, "contributions.log", "\n".join(body))
 
 
+# ---------- about ----------
+ABOUT = {
+    "headline": "Built production systems for Indonesian enterprises.",
+    "intro": "I run AY Labs: delivering ready-to-use products, crafting custom software, "
+             "and building automation systems to scale businesses.",
+    "shipped": [
+        ("1M+", "Scale", "Multi-tenant web app", "100+ universities · 3 countries"),
+        ("<1s", "Performance", "Enterprise load time", "Lighthouse 40 → 99"),
+        ("10h+", "Efficiency", "Saved every week", "Engineering workflows automated"),
+    ],
+    "stack": [("TypeScript", "#3178c6"), ("PostgreSQL", "#336791")],
+}
+
+
+def about_card() -> str:
+    a = ABOUT
+    body = [
+        f'<text x="36" y="80" fill="{TEXT}" font-size="20" font-weight="700" class="fade">{escape(a["headline"])}</text>'
+    ]
+    for i, line in enumerate(wrap(a["intro"], 96)):
+        line = escape(line).replace("AY Labs", f'<tspan fill="{ACCENT}" font-weight="700">AY Labs</tspan>')
+        body.append(
+            f'<text x="36" y="{108 + i * 20}" fill="{MUTED}" font-size="13" class="fade" style="animation-delay:.1s">{line}</text>'
+        )
+    body.append(f'<text x="36" y="172" fill="{ACCENT}" font-size="12">&gt; shipped</text>')
+    bw, gap = 252, 16
+    for i, (val, tag, label, sub) in enumerate(a["shipped"]):
+        x = 36 + i * (bw + gap)
+        body.append(
+            f'<g class="fade" style="animation-delay:{.25 + i * .15:.2f}s">'
+            f'<rect x="{x}" y="184" width="{bw}" height="96" rx="10" fill="{PANEL}" stroke="{BORDER}"/>'
+            f'<text x="{x + 18}" y="206" fill="{MUTED}" font-size="11" letter-spacing="1">{escape(tag.upper())}</text>'
+            f'<text x="{x + 18}" y="238" fill="{ACCENT}" font-size="28" font-weight="700">{escape(val)}</text>'
+            f'<text x="{x + 18}" y="258" fill="{TEXT}" font-size="13">{escape(label)}</text>'
+            f'<text x="{x + 18}" y="273" fill="{MUTED}" font-size="11">{escape(sub)}</text></g>'
+        )
+    body.append(f'<text x="36" y="314" fill="{ACCENT}" font-size="12">&gt; core_stack</text>')
+    x = 150
+    for i, (name, color) in enumerate(a["stack"]):
+        w = 34 + 8.4 * len(name)
+        body.append(
+            f'<g class="fade" style="animation-delay:{.8 + i * .1:.2f}s">'
+            f'<rect x="{x}" y="296" width="{w:.0f}" height="26" rx="13" fill="{PANEL}" stroke="{BORDER}"/>'
+            f'<circle cx="{x + 14}" cy="309" r="4.5" fill="{color}"/>'
+            f'<text x="{x + 25}" y="313.5" fill="{TEXT}" font-size="12">{escape(name)}</text></g>'
+        )
+        x += w + 10
+    right = (
+        f'<text x="{W - 30}" y="26.5" fill="{ACCENT}" font-size="12" text-anchor="end">&gt; whoami'
+        f'<tspan class="cursor">_</tspan></text>'
+    )
+    return frame(344, "about.md", "\n".join(body), right)
+
+
+# ---------- chess replay ----------
+OPERA = [
+    "e2e4", "e7e5", "g1f3", "d7d6", "d2d4", "c8g4", "d4e5", "g4f3", "d1f3", "d6e5",
+    "f1c4", "g8f6", "f3b3", "d8e7", "b1c3", "c7c6", "c1g5", "b7b5", "c3b5", "c6b5",
+    "c4b5", "b8d7", "e1c1+a1d1", "a8d8", "d1d7", "d8d7", "h1d1", "e7e6", "b5d7", "f6d7",
+    "b3b8", "d7b8", "d1d8",
+]
+SAN = [
+    "e4", "e5", "Nf3", "d6", "d4", "Bg4", "dxe5", "Bxf3", "Qxf3", "dxe5", "Bc4", "Nf6",
+    "Qb3", "Qe7", "Nc3", "c6", "Bg5", "b5", "Nxb5", "cxb5", "Bxb5+", "Nbd7", "O-O-O", "Rd8",
+    "Rxd7", "Rxd7", "Rd1", "Qe6", "Bxd7+", "Nxd7", "Qb8+", "Nxb8", "Rd8#",
+]
+GLYPH = {"k": "♚", "q": "♛", "r": "♜", "b": "♝", "n": "♞", "p": "♟"}
+
+
+def chess_card() -> str:
+    cell, bx, by = 44, 36, 64
+    board = {}
+    back = "rnbqkbnr"
+    for i, f in enumerate("abcdefgh"):
+        board[f"{f}1"] = ("w", back[i])
+        board[f"{f}2"] = ("w", "p")
+        board[f"{f}7"] = ("b", "p")
+        board[f"{f}8"] = ("b", back[i])
+    pieces = {sq: {"side": s, "kind": k, "path": [(0.0, sq)], "captured": None} for sq, (s, k) in board.items()}
+    at = {sq: sq for sq in board}  # square -> piece id
+
+    start, ply, move = 1.5, 1.1, 0.4
+    total = start + ply * len(OPERA) + 4.0
+    for n, mv in enumerate(OPERA):
+        t0 = start + n * ply
+        for part in mv.split("+"):
+            a, b = part[:2], part[2:]
+            pid = at.pop(a)
+            if b in at:
+                pieces[at[b]]["captured"] = t0 + move
+            at[b] = pid
+            pieces[pid]["path"].append((t0, a))
+            pieces[pid]["path"].append((t0 + move, b))
+
+    def xy(sq: str) -> tuple[float, float]:
+        f, r = "abcdefgh".index(sq[0]), int(sq[1])
+        return bx + f * cell + cell / 2, by + (8 - r) * cell + cell / 2
+
+    def kt(ts: list[float]) -> str:
+        return ";".join(f"{t / total:.4f}" for t in ts)
+
+    out = []
+    for r in range(8):
+        for f in range(8):
+            fill = "#1b2733" if (r + f) % 2 else "#24333f"
+            out.append(f'<rect x="{bx + f * cell}" y="{by + r * cell}" width="{cell}" height="{cell}" fill="{fill}"/>')
+    for i, f in enumerate("abcdefgh"):
+        out.append(f'<text x="{bx + i * cell + cell / 2}" y="{by + 8 * cell + 16}" fill="{MUTED}" font-size="11" text-anchor="middle">{f}</text>')
+        out.append(f'<text x="{bx - 12}" y="{by + i * cell + cell / 2 + 4}" fill="{MUTED}" font-size="11" text-anchor="middle">{8 - i}</text>')
+
+    # last-move highlight
+    hv, ht = [], []
+    for n, mv in enumerate(OPERA):
+        x, y = xy(mv.split("+")[0][2:])
+        hv.append(f"{x - cell / 2:.0f},{y - cell / 2:.0f}")
+        ht.append(start + n * ply + move)
+    out.append(
+        f'<rect x="0" y="0" width="{cell}" height="{cell}" fill="{ACCENT}" opacity="0">'
+        f'<animate attributeName="opacity" values="0;0;.22;.22;0" keyTimes="0;{ht[0] / total:.4f};{(ht[0] + .01) / total:.4f};{(total - .1) / total:.4f};1" dur="{total}s" repeatCount="indefinite"/>'
+        f'<animateTransform attributeName="transform" type="translate" calcMode="discrete" values="{hv[0]};{";".join(hv)}" keyTimes="0;{kt(ht)}" dur="{total}s" repeatCount="indefinite"/></rect>'
+    )
+
+    for p in pieces.values():
+        frames = p["path"]
+        x0, y0 = xy(frames[0][1])
+        times = [0.0] + [t for t, _ in frames[1:]] + [total - 0.05, total]
+        sqs = [frames[0][1]] + [s for _, s in frames[1:]] + [frames[-1][1], frames[0][1]]
+        if p["captured"]:
+            times = [t for t in times if t <= p["captured"]] + [total - 0.05, total]
+            sqs = sqs[: len(times) - 2] + [sqs[len(times) - 3], frames[0][1]]
+        vals = []
+        for s in sqs:
+            x, y = xy(s)
+            vals.append(f"{x - x0:.1f},{y - y0:.1f}")
+        color = TEXT if p["side"] == "w" else ACCENT
+        anim = ""
+        if len(frames) > 1 or p["captured"]:
+            anim += f'<animateTransform attributeName="transform" type="translate" values="{";".join(vals)}" keyTimes="{kt(times)}" dur="{total}s" repeatCount="indefinite"/>'
+        if p["captured"]:
+            c = p["captured"]
+            anim += (
+                f'<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;{(c - .15) / total:.4f};{c / total:.4f};{(total - .06) / total:.4f};1" dur="{total}s" repeatCount="indefinite"/>'
+            )
+        out.append(
+            f'<text x="{x0}" y="{y0 + 11}" fill="{color}" font-size="32" text-anchor="middle">{GLYPH[p["kind"]]}&#xFE0E;{anim}</text>'
+        )
+
+    # move list
+    lx, ly = 440, 92
+    out.append(f'<text x="{lx}" y="{ly - 18}" fill="{TEXT}" font-size="18" font-weight="700">The Opera Game</text>')
+    out.append(f'<text x="{lx}" y="{ly + 2}" fill="{MUTED}" font-size="12">Paul Morphy vs. Duke Karl &amp; Count Isouard · Paris, 1858</text>')
+    rows = (len(SAN) + 1) // 2
+    hl_vals, hl_times = [], []
+    for i in range(rows):
+        col, row = divmod(i, 9)
+        x, y = lx + col * 196, ly + 34 + row * 25
+        w = SAN[2 * i]
+        b = SAN[2 * i + 1] if 2 * i + 1 < len(SAN) else ""
+        out.append(
+            f'<text x="{x + 8}" y="{y}" font-size="13"><tspan fill="{MUTED}">{i + 1:>2}.</tspan>'
+            f'<tspan fill="{TEXT}" dx="8">{escape(w)}</tspan><tspan fill="{ACCENT}" dx="10">{escape(b)}</tspan></text>'
+        )
+        hl_vals.append(f"{x},{y - 16}")
+        hl_times.append(start + 2 * i * ply)
+    out.append(
+        f'<rect x="0" y="0" width="186" height="22" rx="5" fill="{ACCENT}" opacity=".12">'
+        f'<animateTransform attributeName="transform" type="translate" calcMode="discrete" values="{hl_vals[0]};{";".join(hl_vals)}" keyTimes="0;{kt(hl_times)}" dur="{total}s" repeatCount="indefinite"/></rect>'
+    )
+    mate_t = start + ply * (len(OPERA) - 1) + move
+    out.append(
+        f'<text x="{lx}" y="{by + 8 * cell - 6}" fill="{ACCENT}" font-size="15" font-weight="700" opacity="0">♚&#xFE0E; Checkmate — 1-0'
+        f'<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;{mate_t / total:.4f};{(mate_t + .3) / total:.4f};{(total - .1) / total:.4f};1" dur="{total}s" repeatCount="indefinite"/></text>'
+    )
+    right = f'<text x="{W - 30}" y="26.5" fill="{ACCENT}" font-size="12" text-anchor="end">replay ● live</text>'
+    return frame(by + 8 * cell + 34, "chess.replay", "\n".join(out), right)
+
+
 def main() -> None:
     if len(sys.argv) < 2:
         raise SystemExit(__doc__)
@@ -356,6 +535,8 @@ def main() -> None:
     (OUT / "profile.svg").write_text(profile_card(data), encoding="utf-8")
     (OUT / "stack.svg").write_text(stack_card(data), encoding="utf-8")
     (OUT / "year.svg").write_text(year_card(data), encoding="utf-8")
+    (OUT / "chess.svg").write_text(chess_card(), encoding="utf-8")
+    (OUT / "about.svg").write_text(about_card(), encoding="utf-8")
     print(f"wrote cards for @{login} -> {OUT}")
 
 

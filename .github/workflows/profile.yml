@@ -2,7 +2,7 @@ name: Update profile cards
 
 on:
   schedule:
-    - cron: "0 17 * * 0"    # weekly, Monday 00:00 WIB (Sunday 17:00 UTC)
+    - cron: "17 1 * * *"   # every day, 08:17 WIB
   workflow_dispatch:
   push:
     branches: [main]
@@ -27,8 +27,9 @@ jobs:
 
       - name: Generate SVG cards
         run: |
-          pip install pillow
+          pip install pillow chess
           python scripts/generate.py "${{ github.repository_owner }}"
+          python scripts/chess_game.py render
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,7 +43,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets profile-3d-contrib
+          git add assets profile-3d-contrib chess README.md
           git diff --cached --quiet || git commit -m "chore: refresh profile cards"
           git pull --rebase -q
           git push
