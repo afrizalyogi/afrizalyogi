@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180" role="img" aria-label="contributions.log">
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .cursor { animation: blink 1s steps(1) infinite; }
+</style>
+<rect x="1" y="1" width="858" height="178" rx="14" fill="#0d1117" stroke="#1e2a36" stroke-width="1.5"/>
+<circle cx="24" cy="22" r="5.5" fill="#ff5f57"/><circle cx="42" cy="22" r="5.5" fill="#febc2e"/><circle cx="60" cy="22" r="5.5" fill="#28c840"/>
+<text x="82" y="26.5" fill="#8b949e" font-size="12">contributions.log</text>
+
+<line x1="1" y1="42" x2="859" y2="42" stroke="#1e2a36"/>
+<text x="36" y="80" fill="#e6edf3" font-size="18" font-weight="700">The city I built this year</text>
+<text x="36" y="100" fill="#8b949e" font-size="12">Last 365 days · refreshed weekly</text>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" fill="freeze"/><text x="36" y="136" fill="#3ddc97" font-size="26" font-weight="700">1,578</text><text x="36" y="152" fill="#8b949e" font-size="12">contributions</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;1" dur="0.72s" fill="freeze"/><text x="241" y="136" fill="#3ddc97" font-size="26" font-weight="700">179</text><text x="241" y="152" fill="#8b949e" font-size="12">active days</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.286;1" dur="0.84s" fill="freeze"/><text x="446" y="136" fill="#3ddc97" font-size="26" font-weight="700">156</text><text x="446" y="152" fill="#8b949e" font-size="12">busiest day</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.375;1" dur="0.96s" fill="freeze"/><text x="651" y="136" fill="#3ddc97" font-size="26" font-weight="700">27</text><text x="651" y="152" fill="#8b949e" font-size="12">longest streak</text></g>
+<rect x="560" y="98.2" width="7" height="5.8" rx="1.5" fill="#3ddc97" opacity="0.38"/>
+<rect x="570" y="98.6" width="7" height="5.4" rx="1.5" fill="#3ddc97" opacity="0.38"/>
+<rect x="580" y="99.7" width="7" height="4.3" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="590" y="97.5" width="7" height="6.5" rx="1.5" fill="#3ddc97" opacity="0.40"/>
+<rect x="600" y="99.0" width="7" height="5.0" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+<rect x="610" y="98.5" width="7" height="5.5" rx="1.5" fill="#3ddc97" opacity="0.38"/>
+<rect x="620" y="99.2" width="7" height="4.8" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+<rect x="630" y="100.0" width="7" height="4.0" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="640" y="94.0" width="7" height="10.0" rx="1.5" fill="#3ddc97" opacity="0.47"/>
+<rect x="650" y="99.3" width="7" height="4.7" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="660" y="82.4" width="7" height="21.6" rx="1.5" fill="#3ddc97" opacity="0.69"/>
+<rect x="670" y="90.3" width="7" height="13.7" rx="1.5" fill="#3ddc97" opacity="0.54"/>
+<rect x="680" y="88.6" width="7" height="15.4" rx="1.5" fill="#3ddc97" opacity="0.57"/>
+<rect x="690" y="99.5" width="7" height="4.5" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="700" y="100.0" width="7" height="4.0" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="710" y="99.7" width="7" height="4.3" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="720" y="96.0" width="7" height="8.0" rx="1.5" fill="#3ddc97" opacity="0.43"/>
+<rect x="730" y="98.8" width="7" height="5.2" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+<rect x="740" y="99.6" width="7" height="4.4" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="750" y="99.9" width="7" height="4.1" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="760" y="93.8" width="7" height="10.2" rx="1.5" fill="#3ddc97" opacity="0.47"/>
+<rect x="770" y="96.7" width="7" height="7.3" rx="1.5" fill="#3ddc97" opacity="0.41"/>
+<rect x="780" y="83.2" width="7" height="20.8" rx="1.5" fill="#3ddc97" opacity="0.67"/>
+<rect x="790" y="96.4" width="7" height="7.6" rx="1.5" fill="#3ddc97" opacity="0.42"/>
+<rect x="800" y="66.0" width="7" height="38.0" rx="1.5" fill="#3ddc97" opacity="1.00"/>
+<rect x="810" y="98.9" width="7" height="5.1" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+</svg>
