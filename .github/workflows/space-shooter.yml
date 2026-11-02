@@ -30,3 +30,11 @@ jobs:
           fps: 25
           no-amend: "true"
           commit-message: "chore: refresh space shooter"
+
+      - name: Pin README images to the new commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git pull --rebase -q
+          bash scripts/pin.sh
+          git push

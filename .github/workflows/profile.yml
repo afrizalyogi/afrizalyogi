@@ -35,7 +35,6 @@ jobs:
         run: |
           pip install pillow
           python scripts/generate.py "${{ github.repository_owner }}"
-          sed -i -E "s/\?v=[0-9]+/?v=$(date +%Y%m%d%H%M)/g" README.md  # bust GitHub image cache
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +42,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add assets profile-3d-contrib README.md
+          git add assets profile-3d-contrib
           git diff --cached --quiet || git commit -m "chore: refresh profile cards"
           git pull --rebase -q
+          bash scripts/pin.sh
           git push
