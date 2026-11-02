@@ -20,6 +20,8 @@ jobs:
         with:
           fetch-depth: 2
 
+      - run: mkdir -p assets
+
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
