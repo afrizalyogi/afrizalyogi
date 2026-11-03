@@ -44,6 +44,7 @@ query($login:String!, $cursor:String) {
   user(login:$login) {
     login name bio avatarUrl(size:160)
     followers { totalCount }
+    pullRequests(states:MERGED) { totalCount }
     repositories(ownerAffiliations:OWNER, privacy:PUBLIC, isFork:false, first:100, after:$cursor) {
       totalCount
       pageInfo { hasNextPage endCursor }
@@ -113,6 +114,7 @@ def fetch(login: str, token: str) -> dict:
         "name": user["name"] or user["login"],
         "bio": user["bio"] or "",
         "followers": user["followers"]["totalCount"],
+        "prs": user["pullRequests"]["totalCount"],
         "repos": user["repositories"]["totalCount"],
         "stars": sum(r["stargazerCount"] for r in repos),
         "contributions": user["contributionsCollection"]["contributionCalendar"]["totalContributions"],
@@ -136,6 +138,7 @@ def sample(login: str) -> dict:
         "name": "Afrizal Yogi P.",
         "bio": "Building Full-Stack Systems and Workflow Automation",
         "followers": 31,
+        "prs": 131,
         "repos": 28,
         "stars": 12,
         "contributions": sum(c for _, c in days),
@@ -256,6 +259,7 @@ def profile_card(d: dict) -> str:
         ("☆", d["stars"], "Stars earned"),
         ("◆", d["contributions"], "Contributions this year"),
         ("◉", d["followers"], "Followers"),
+        ("⇄", d["prs"], "Pull requests merged"),
     ]
     for i, (icon, val, label) in enumerate(stats):
         y = 206 + i * 24
@@ -344,16 +348,16 @@ ABOUT = {
         ("10h+", "Ops hours saved weekly", "Billing · payouts · alerts"),
     ],
     "built": [
-        ("DCT Web Pro", "Cash management for enterprise banks"),
-        ("AY ERP", "CRM, finance, docs, WhatsApp inbox"),
-        ("Cloudarta", "Cloud reseller + commission payouts"),
-        ("CBT", "Online exams, live proctor controls"),
-        ("Wiseman", "AI agents spawned onto WhatsApp"),
-        ("RAG Chatbot", "Upload docs, embed bot anywhere"),
-        ("Report Validation", "Bank regulatory report checks"),
-        ("FlowSpec", "Business brief → specs for AI"),
-        ("Typ", "Short links, QR, click analytics"),
-        ("Internship Portal", "Role-based data access (UU PDP)"),
+        ("Banking cash management", "Enterprise frontend for major banks"),
+        ("Company ERP", "CRM, finance, docs, WhatsApp inbox"),
+        ("Cloud reseller platform", "Referrals, commission, payouts"),
+        ("Online exam platform", "Live proctoring, crash recovery"),
+        ("AI agent orchestrator", "Spawn AI agents onto WhatsApp"),
+        ("RAG chatbot SaaS", "Upload docs, embed bot anywhere"),
+        ("Regulatory report validation", "Bank reports checked before filing"),
+        ("Link management platform", "Short links, QR, click analytics"),
+        ("Automation pipelines", "Billing, payouts, alerts, content"),
+        ("Internship portal", "Role-based data access (UU PDP)"),
     ],
     "stack": [("TypeScript", "#3178c6"), ("PostgreSQL", "#336791"), ("React/Next.js", "#61dafb"),
               ("SvelteKit", "#ff3e00")],
