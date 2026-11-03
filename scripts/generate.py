@@ -351,7 +351,7 @@ ABOUT = {
         ("Banking cash management", "Enterprise frontend for major banks"),
         ("Company ERP", "CRM, finance, docs, WhatsApp inbox"),
         ("Cloud reseller platform", "Referrals, commission, payouts"),
-        ("Online exam platform", "Live proctoring, crash recovery"),
+        ("Online exam platform", "Live proctoring, answers survive refresh"),
         ("AI agent orchestrator", "Spawn AI agents onto WhatsApp"),
         ("RAG chatbot SaaS", "Upload docs, embed bot anywhere"),
         ("Regulatory report validation", "Bank reports checked before filing"),
