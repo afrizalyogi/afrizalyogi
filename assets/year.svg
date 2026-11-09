@@ -11,34 +11,34 @@
 <line x1="1" y1="42" x2="859" y2="42" stroke="#1e2a36"/>
 <text x="36" y="80" fill="#e6edf3" font-size="18" font-weight="700">The city I built this year</text>
 <text x="36" y="100" fill="#8b949e" font-size="12">Last 365 days · refreshed weekly</text>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" fill="freeze"/><text x="36" y="136" fill="#3ddc97" font-size="26" font-weight="700">1,610</text><text x="36" y="152" fill="#8b949e" font-size="12">contributions</text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;1" dur="0.72s" fill="freeze"/><text x="241" y="136" fill="#3ddc97" font-size="26" font-weight="700">180</text><text x="241" y="152" fill="#8b949e" font-size="12">active days</text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.286;1" dur="0.84s" fill="freeze"/><text x="446" y="136" fill="#3ddc97" font-size="26" font-weight="700">156</text><text x="446" y="152" fill="#8b949e" font-size="12">busiest day</text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.375;1" dur="0.96s" fill="freeze"/><text x="651" y="136" fill="#3ddc97" font-size="26" font-weight="700">27</text><text x="651" y="152" fill="#8b949e" font-size="12">longest streak</text></g>
-<rect x="560" y="98.2" width="7" height="5.8" rx="1.5" fill="#3ddc97" opacity="0.38"/>
-<rect x="570" y="98.6" width="7" height="5.4" rx="1.5" fill="#3ddc97" opacity="0.38"/>
-<rect x="580" y="99.7" width="7" height="4.3" rx="1.5" fill="#3ddc97" opacity="0.36"/>
-<rect x="590" y="97.5" width="7" height="6.5" rx="1.5" fill="#3ddc97" opacity="0.40"/>
-<rect x="600" y="99.0" width="7" height="5.0" rx="1.5" fill="#3ddc97" opacity="0.37"/>
-<rect x="610" y="98.5" width="7" height="5.5" rx="1.5" fill="#3ddc97" opacity="0.38"/>
-<rect x="620" y="99.2" width="7" height="4.8" rx="1.5" fill="#3ddc97" opacity="0.37"/>
-<rect x="630" y="100.0" width="7" height="4.0" rx="1.5" fill="#3ddc97" opacity="0.35"/>
-<rect x="640" y="94.0" width="7" height="10.0" rx="1.5" fill="#3ddc97" opacity="0.47"/>
-<rect x="650" y="99.3" width="7" height="4.7" rx="1.5" fill="#3ddc97" opacity="0.36"/>
-<rect x="660" y="82.4" width="7" height="21.6" rx="1.5" fill="#3ddc97" opacity="0.69"/>
-<rect x="670" y="90.3" width="7" height="13.7" rx="1.5" fill="#3ddc97" opacity="0.54"/>
-<rect x="680" y="88.6" width="7" height="15.4" rx="1.5" fill="#3ddc97" opacity="0.57"/>
-<rect x="690" y="99.5" width="7" height="4.5" rx="1.5" fill="#3ddc97" opacity="0.36"/>
-<rect x="700" y="100.0" width="7" height="4.0" rx="1.5" fill="#3ddc97" opacity="0.35"/>
-<rect x="710" y="99.7" width="7" height="4.3" rx="1.5" fill="#3ddc97" opacity="0.36"/>
-<rect x="720" y="96.0" width="7" height="8.0" rx="1.5" fill="#3ddc97" opacity="0.43"/>
-<rect x="730" y="98.8" width="7" height="5.2" rx="1.5" fill="#3ddc97" opacity="0.37"/>
-<rect x="740" y="99.6" width="7" height="4.4" rx="1.5" fill="#3ddc97" opacity="0.36"/>
-<rect x="750" y="99.9" width="7" height="4.1" rx="1.5" fill="#3ddc97" opacity="0.35"/>
-<rect x="760" y="93.8" width="7" height="10.2" rx="1.5" fill="#3ddc97" opacity="0.47"/>
-<rect x="770" y="96.7" width="7" height="7.3" rx="1.5" fill="#3ddc97" opacity="0.41"/>
-<rect x="780" y="83.2" width="7" height="20.8" rx="1.5" fill="#3ddc97" opacity="0.67"/>
-<rect x="790" y="96.4" width="7" height="7.6" rx="1.5" fill="#3ddc97" opacity="0.42"/>
-<rect x="800" y="66.0" width="7" height="38.0" rx="1.5" fill="#3ddc97" opacity="1.00"/>
-<rect x="810" y="95.7" width="7" height="8.3" rx="1.5" fill="#3ddc97" opacity="0.43"/>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" fill="freeze"/><text x="36" y="136" fill="#3ddc97" font-size="26" font-weight="700">2,149</text><text x="36" y="152" fill="#8b949e" font-size="12">contributions</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;1" dur="0.72s" fill="freeze"/><text x="241" y="136" fill="#3ddc97" font-size="26" font-weight="700">184</text><text x="241" y="152" fill="#8b949e" font-size="12">active days</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.286;1" dur="0.84s" fill="freeze"/><text x="446" y="136" fill="#3ddc97" font-size="26" font-weight="700">306</text><text x="446" y="152" fill="#8b949e" font-size="12">busiest day</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.375;1" dur="0.96s" fill="freeze"/><text x="651" y="136" fill="#3ddc97" font-size="26" font-weight="700">30</text><text x="651" y="152" fill="#8b949e" font-size="12">longest streak</text></g>
+<rect x="560" y="99.2" width="7" height="4.8" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+<rect x="570" y="99.8" width="7" height="4.2" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="580" y="98.6" width="7" height="5.4" rx="1.5" fill="#3ddc97" opacity="0.38"/>
+<rect x="590" y="99.4" width="7" height="4.6" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="600" y="99.1" width="7" height="4.9" rx="1.5" fill="#3ddc97" opacity="0.37"/>
+<rect x="610" y="99.5" width="7" height="4.5" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="620" y="100.0" width="7" height="4.0" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="630" y="96.5" width="7" height="7.5" rx="1.5" fill="#3ddc97" opacity="0.42"/>
+<rect x="640" y="99.6" width="7" height="4.4" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="650" y="89.9" width="7" height="14.1" rx="1.5" fill="#3ddc97" opacity="0.54"/>
+<rect x="660" y="94.4" width="7" height="9.6" rx="1.5" fill="#3ddc97" opacity="0.46"/>
+<rect x="670" y="93.4" width="7" height="10.6" rx="1.5" fill="#3ddc97" opacity="0.48"/>
+<rect x="680" y="99.7" width="7" height="4.3" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="690" y="100.0" width="7" height="4.0" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="700" y="99.8" width="7" height="4.2" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="710" y="97.7" width="7" height="6.3" rx="1.5" fill="#3ddc97" opacity="0.39"/>
+<rect x="720" y="99.2" width="7" height="4.8" rx="1.5" fill="#3ddc97" opacity="0.36"/>
+<rect x="730" y="99.8" width="7" height="4.2" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="740" y="99.9" width="7" height="4.1" rx="1.5" fill="#3ddc97" opacity="0.35"/>
+<rect x="750" y="96.4" width="7" height="7.6" rx="1.5" fill="#3ddc97" opacity="0.42"/>
+<rect x="760" y="98.1" width="7" height="5.9" rx="1.5" fill="#3ddc97" opacity="0.39"/>
+<rect x="770" y="90.3" width="7" height="13.7" rx="1.5" fill="#3ddc97" opacity="0.54"/>
+<rect x="780" y="97.9" width="7" height="6.1" rx="1.5" fill="#3ddc97" opacity="0.39"/>
+<rect x="790" y="66.0" width="7" height="38.0" rx="1.5" fill="#3ddc97" opacity="1.00"/>
+<rect x="800" y="82.7" width="7" height="21.3" rx="1.5" fill="#3ddc97" opacity="0.68"/>
+<rect x="810" y="99.5" width="7" height="4.5" rx="1.5" fill="#3ddc97" opacity="0.36"/>
 </svg>
