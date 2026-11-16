@@ -1,34 +1,34 @@
 <p align="center">
   <a href="https://afrizalyogi.my.id">
-    <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/profile.svg" alt="Afrizal Yogi P. · Building Full-Stack Systems and Workflow Automation" width="100%" />
+    <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/profile.svg" alt="Afrizal Yogi P. · Building Full-Stack Systems and Workflow Automation" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://labs.aycorp.id">
-    <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/about.svg" alt="Built production systems for Indonesian enterprises. Shipped: 1M+ requests across 100+ universities in 4 countries; enterprise load time under 1s (Lighthouse 40 to 99); 10+ ops hours saved weekly. Built: banking cash management, company ERP, cloud reseller platform, online exam platform, AI agent orchestrator, RAG chatbot SaaS, regulatory report validation, link management platform, automation pipelines, internship portal. Core stack: TypeScript, PostgreSQL, React/Next.js, SvelteKit." width="100%" />
+    <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/about.svg" alt="Built production systems for Indonesian enterprises. Shipped: 1M+ requests across 100+ universities in 4 countries; enterprise load time under 1s (Lighthouse 40 to 99); 10+ ops hours saved weekly. Built: banking cash management, company ERP, cloud reseller platform, online exam platform, AI agent orchestrator, RAG chatbot SaaS, regulatory report validation, link management platform, automation pipelines, internship portal. Core stack: TypeScript, PostgreSQL, React/Next.js, SvelteKit." width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/stack.svg" alt="Language stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/stack.svg" alt="Language stack" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/year.svg" alt="Contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/year.svg" alt="Contributions in the last year" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/game.gif" alt="Space Shooter: my contributions, under attack" width="100%" />
+  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/game.gif" alt="Space Shooter: my contributions, under attack" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/city.svg" alt="3D contribution city" width="100%" />
+  <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/city.svg" alt="3D contribution city" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://afrizalyogi.github.io/afrizalyogi/chess/">
-    <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/c8f9853a3fa511c984480e321f5ecb802dff91a8/assets/chess-board.svg" alt="Play chess against my bot" width="100%" />
+    <img src="https://raw.githubusercontent.com/afrizalyogi/afrizalyogi/0f1e2fd6eb2588858d52b4db442fbba34536c34a/assets/chess-board.svg" alt="Play chess against my bot" width="100%" />
   </a>
 </p>
 
